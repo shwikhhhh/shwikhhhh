@@ -1,6 +1,6 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm [Abdelrhman](https://yousefdergham.vercel.app/) 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+**Odoo Developer ·  · Coffee Lover ☕**
 
 💼 **Current:** Full Stack Engineer at [Quran.Foundation](https://quran.foundation)
 
