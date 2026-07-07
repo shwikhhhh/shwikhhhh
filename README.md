@@ -2,7 +2,7 @@
 
 **Odoo Developer ·  · Coffee Lover ☕**
 
-💼 **Current:** Trine at [elaskary-academy](https://elaskary-academy.odoo.com/)
+💼 **Current:** Odoo intern at [elaskary-academy](https://elaskary-academy.odoo.com/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
