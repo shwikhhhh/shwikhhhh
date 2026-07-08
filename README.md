@@ -12,8 +12,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-Hi, I'm an aspiring Odoo Developer with a background in accounting and a strong interest in ERP systems. I enjoy developing business solutions using Python and Odoo while continuously expanding my knowledge of PostgreSQL, XML, JavaScript, HTML, CSS, and Git. With a foundation in C++, Linux, and computer networking, I am committed to building efficient, scalable applications and growing as a software developer.
-
+Hi, I'm an aspiring Odoo Developer with a background in accounting and a passion for ERP systems. I am currently developing business applications using Python and Odoo while expanding my knowledge of PostgreSQL, XML, JavaScript, HTML, CSS, and Git. I also have a solid foundation in C++, Linux, and computer networking. I enjoy solving real-world business problems and continuously improving my technical skills through hands-on projects.
 
 
 <br clear="right"/>
