@@ -22,7 +22,7 @@ I have worked on projects that served thousands of users, built scalable applica
 
 ## 🔧 My Tech Stack
 
-![Python](<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>)
+![python](https://img.shields.io/badge/Python-3178C6?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
