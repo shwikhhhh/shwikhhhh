@@ -10,7 +10,8 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 Hi, I'm an Odoo Developer with a background in accounting and a passion for ERP systems. I am currently developing business applications using Python and Odoo while expanding my knowledge of PostgreSQL, XML, JavaScript, HTML, CSS, and Git. I also have a solid foundation in C++, Linux, and computer networking. I enjoy solving real-world business problems and continuously improving my technical skills through hands-on projects.
 
