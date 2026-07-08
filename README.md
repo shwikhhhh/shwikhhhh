@@ -12,9 +12,7 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am an odoo developer skilled in python, c++, css, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
-
+Hi, I'm an aspiring Odoo Developer with a background in accounting and a strong interest in ERP systems. I enjoy developing business solutions using Python and Odoo while continuously expanding my knowledge of PostgreSQL, XML, JavaScript, HTML, CSS, and Git. With a foundation in C++, Linux, and computer networking, I am committed to building efficient, scalable applications and growing as a software developer.
 
 
 
