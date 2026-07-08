@@ -5,7 +5,7 @@
 💼 **Current:** Odoo intern at [elaskary-academy](https://elaskary-academy.odoo.com/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shwikhhhh&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 🚀 About Me
@@ -20,7 +20,6 @@ I have worked on projects that served thousands of users, built scalable applica
 
 <br clear="right"/>
 
-## 🔧 My Tech Stack
 
 ## 🔧 My Tech Stack
 
